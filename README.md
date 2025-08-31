@@ -35,7 +35,7 @@ Create a .env file (never commit it). Example:
 VERACODE_BASE=https://api.veracode.com
 
 # Veracode HMAC credentials
-VERACODE_API_KEY_ID=vc_xxxxxxxxxxxxxx
+VERACODE_API_KEY_ID=xxxxxxxxxxxxxx
 VERACODE_API_KEY_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Optional tuning
