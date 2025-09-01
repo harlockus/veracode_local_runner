@@ -130,5 +130,6 @@ Security Notes
 	•	.env should never be committed — use .env.example for sharing config.
 	•	For CI (e.g., GitHub Actions), store keys in repository secrets.
 
-
+__________
+Note: this is not an official VERACODE tool, however it leverages multiple VERACODE REST API. For full documentation please see: https://docs.veracode.com/r/c_rest_intro
 
