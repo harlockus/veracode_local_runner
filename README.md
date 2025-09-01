@@ -48,7 +48,7 @@ For EU tenants, set VERACODE_BASE=https://api.veracode.eu
 
 Usage
 
-Run the script with one of three modes:
+Run the script with one of three modes (starting dates are just examples, feel free to adjust them as you need them to be):
 
 1. Full export (Apps + Summaries + Compliance + Reporting + Charts)
 python3 veracode_local_runner.py tenant-all-in-one \
